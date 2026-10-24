@@ -17,7 +17,7 @@ A Python backend to manage student records (Create, Read, Update, Delete) using 
 
 ## Installation
 ```bash
-git clone <https://github.com/Rushi-Khairnar/students-crud-fastapi>
+git clone <https://github.com/KMG1610/Student-curd-fast-api.git>
 cd students-crud
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
